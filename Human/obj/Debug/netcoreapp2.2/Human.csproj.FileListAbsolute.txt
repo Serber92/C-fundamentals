@@ -1,0 +1,11 @@
+/Users/andriiivanytskyi/Desktop/C#/Human/bin/Debug/netcoreapp2.2/Human.deps.json
+/Users/andriiivanytskyi/Desktop/C#/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.json
+/Users/andriiivanytskyi/Desktop/C#/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.dev.json
+/Users/andriiivanytskyi/Desktop/C#/Human/bin/Debug/netcoreapp2.2/Human.dll
+/Users/andriiivanytskyi/Desktop/C#/Human/bin/Debug/netcoreapp2.2/Human.pdb
+/Users/andriiivanytskyi/Desktop/C#/Human/obj/Debug/netcoreapp2.2/Human.csprojAssemblyReference.cache
+/Users/andriiivanytskyi/Desktop/C#/Human/obj/Debug/netcoreapp2.2/Human.csproj.CoreCompileInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfoInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfo.cs
+/Users/andriiivanytskyi/Desktop/C#/Human/obj/Debug/netcoreapp2.2/Human.dll
+/Users/andriiivanytskyi/Desktop/C#/Human/obj/Debug/netcoreapp2.2/Human.pdb
