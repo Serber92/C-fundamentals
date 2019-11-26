@@ -1,0 +1,11 @@
+/Users/andriiivanytskyi/Desktop/C#/Ninja/bin/Debug/netcoreapp2.2/Ninja.deps.json
+/Users/andriiivanytskyi/Desktop/C#/Ninja/bin/Debug/netcoreapp2.2/Ninja.runtimeconfig.json
+/Users/andriiivanytskyi/Desktop/C#/Ninja/bin/Debug/netcoreapp2.2/Ninja.runtimeconfig.dev.json
+/Users/andriiivanytskyi/Desktop/C#/Ninja/bin/Debug/netcoreapp2.2/Ninja.dll
+/Users/andriiivanytskyi/Desktop/C#/Ninja/bin/Debug/netcoreapp2.2/Ninja.pdb
+/Users/andriiivanytskyi/Desktop/C#/Ninja/obj/Debug/netcoreapp2.2/Ninja.csprojAssemblyReference.cache
+/Users/andriiivanytskyi/Desktop/C#/Ninja/obj/Debug/netcoreapp2.2/Ninja.csproj.CoreCompileInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/Ninja/obj/Debug/netcoreapp2.2/Ninja.AssemblyInfoInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/Ninja/obj/Debug/netcoreapp2.2/Ninja.AssemblyInfo.cs
+/Users/andriiivanytskyi/Desktop/C#/Ninja/obj/Debug/netcoreapp2.2/Ninja.dll
+/Users/andriiivanytskyi/Desktop/C#/Ninja/obj/Debug/netcoreapp2.2/Ninja.pdb
