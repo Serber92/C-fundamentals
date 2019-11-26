@@ -1,0 +1,11 @@
+/Users/andriiivanytskyi/Desktop/C#/cards/bin/Debug/netcoreapp2.2/cards.deps.json
+/Users/andriiivanytskyi/Desktop/C#/cards/bin/Debug/netcoreapp2.2/cards.runtimeconfig.json
+/Users/andriiivanytskyi/Desktop/C#/cards/bin/Debug/netcoreapp2.2/cards.runtimeconfig.dev.json
+/Users/andriiivanytskyi/Desktop/C#/cards/bin/Debug/netcoreapp2.2/cards.dll
+/Users/andriiivanytskyi/Desktop/C#/cards/bin/Debug/netcoreapp2.2/cards.pdb
+/Users/andriiivanytskyi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.csprojAssemblyReference.cache
+/Users/andriiivanytskyi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.csproj.CoreCompileInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.AssemblyInfoInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.AssemblyInfo.cs
+/Users/andriiivanytskyi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.dll
+/Users/andriiivanytskyi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.pdb
