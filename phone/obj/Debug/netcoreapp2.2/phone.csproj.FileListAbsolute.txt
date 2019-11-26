@@ -1,0 +1,11 @@
+/Users/andriiivanytskyi/Desktop/C#/phone/bin/Debug/netcoreapp2.2/phone.deps.json
+/Users/andriiivanytskyi/Desktop/C#/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.json
+/Users/andriiivanytskyi/Desktop/C#/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.dev.json
+/Users/andriiivanytskyi/Desktop/C#/phone/bin/Debug/netcoreapp2.2/phone.dll
+/Users/andriiivanytskyi/Desktop/C#/phone/bin/Debug/netcoreapp2.2/phone.pdb
+/Users/andriiivanytskyi/Desktop/C#/phone/obj/Debug/netcoreapp2.2/phone.csprojAssemblyReference.cache
+/Users/andriiivanytskyi/Desktop/C#/phone/obj/Debug/netcoreapp2.2/phone.csproj.CoreCompileInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfoInputs.cache
+/Users/andriiivanytskyi/Desktop/C#/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfo.cs
+/Users/andriiivanytskyi/Desktop/C#/phone/obj/Debug/netcoreapp2.2/phone.dll
+/Users/andriiivanytskyi/Desktop/C#/phone/obj/Debug/netcoreapp2.2/phone.pdb
